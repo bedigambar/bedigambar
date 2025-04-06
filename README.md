@@ -5,10 +5,10 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 ```python
-class WebeDeveloper:
+class WebDeveloper:
     def __init__(myself):
         myself.name = "Digambar Behera"
-        myself.role = "Still a Learner"
+        myself.role = "Web Developer"
         myself.location = "India 🇮🇳"
         myself.learning = ["Python 🐍", "JavaScript 🚀"]
         myself.interests = ["Web Development 🌐", "Machine Learning 🤖", "Web3 🆕"]
