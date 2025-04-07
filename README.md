@@ -14,7 +14,7 @@ class WebDeveloper:
         myself.interests = ["Web Development 🌐", "Machine Learning 🤖", "Web3 🆕"]
     
     def say_hello(myself):
-        print("Thanks for dropping by! Let's build something mindblowing together!")
+        print("Thanks for dropping by! Let's build something incredible together!")
 
 me = WebDeveloper()
 me.say_hello()
