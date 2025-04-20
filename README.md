@@ -1,6 +1,6 @@
 # Hi there, I’m Digambar!👋 
 
-[![Twitter](https://img.shields.io/twitter/follow/veyroncx__?style=social)](https://x.com/0xDigambar)
+[![Twitter](https://img.shields.io/twitter/follow/0xDigambar?style=social)](https://x.com/0xDigambar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/digambar-behera)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
