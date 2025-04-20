@@ -1,6 +1,6 @@
 # Hi there, I’m Digambar!👋 
 
-[![Twitter](https://img.shields.io/twitter/follow/veyroncx__?style=social)](https://twitter.com/veyroncx__)
+[![Twitter](https://img.shields.io/twitter/follow/veyroncx__?style=social)](https://x.com/0xDigambar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/digambar-behera)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
@@ -63,7 +63,7 @@ me.say_hello()
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/veyroncx__" target="_blank">
+  <a href="https://x.com/0xDigambar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/digambar-behera" target="_blank">
