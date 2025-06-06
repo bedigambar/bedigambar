@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/0xDigambar?style=social)](https://x.com/0xDigambar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/digambar-behera)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2U2bjlzanFhcjhucHd0YjNtaDBjbjF0bnk0YTY3bGJjeHpzM3M1NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lObFzi0JM6gBU3aYKg/giphy.gif" width="40">&nbsp; About Me
 
 
 ### 🎯 Quick Facts
