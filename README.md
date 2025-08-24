@@ -9,9 +9,7 @@
 ### 🎯 Quick Facts
 
 -  Hello! Myself **Digambar** from India
--  I'm currently working on **uplifting my Development skills**
--  Learning **Python** and **JavaScript** 
--  Exploring **Web Development, Machine Learning and Web3**
+-  I'm currently working on **uplifting my ML skills**
 -  Open to collaborating on **interesting projects**
 
 ### Languages & Frameworks:
