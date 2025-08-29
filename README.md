@@ -7,6 +7,8 @@
 
 Hello! Myself **Digambar** from India. I'm currently working on **uplifting my ML skills**. I have a strong interest in **blockchain technology, machine learning**, and **hackathons**. Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedigambar&layout=compact&theme=tokyonight&count_private=true)
+
 
 ## &nbsp;🎯 Skills
 
