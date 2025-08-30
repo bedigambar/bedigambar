@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+digambar!;web+developer+%7C+machine+learning&font=Fira%20Code&size=22&width=500&duration=3000&pause=1000)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+digambar!;web+developer+%7C+machine+learning&font=Fira%20Code&size=25&width=600&duration=3000&pause=1000)
 
 [![Twitter](https://img.shields.io/twitter/follow/digambarcodes?style=social)](https://x.com/digambarcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/digambar-behera)
@@ -10,7 +10,7 @@ Hello! Myself **Digambar** from India. I'm currently working on **uplifting my M
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedigambar&layout=compact&theme=tokyonight&count_private=true)
 
 
-## &nbsp;🎯 Tech Stack
+## &nbsp;👨🏻‍💻 Tech Stack
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
