@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2U2bjlzanFhcjhucHd0YjNtaDBjbjF0bnk0YTY3bGJjeHpzM3M1NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lObFzi0JM6gBU3aYKg/giphy.gif" width="40">&nbsp; About Me
 
-Hello! Myself **Digambar** from India. I'm currently working on **uplifting my ML skills**. I have a strong interest in **blockchain technology, machine learning**, and **hackathons**. Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
+Hello! Myself **Digambar** from India. I'm currently working on **uplifting my ML skills**. I have a strong interest in **machine learning**, **blockchain technology** and **web development**. Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedigambar&layout=compact&theme=tokyonight&count_private=true)
 
