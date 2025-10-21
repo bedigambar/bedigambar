@@ -1,5 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+digambar!;web+developer+%7C+machine+learning&font=Fira%20Code&size=25&width=600&duration=3000&pause=1000)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-digambar.tech-orange?style=social&logo=safari)](https://www.digambar.tech/)
 [![Twitter](https://img.shields.io/twitter/follow/digambarcodes?style=social)](https://x.com/digambarcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/digambar-behera)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=social&logo=kaggle)](https://www.kaggle.com/bedigambar)
